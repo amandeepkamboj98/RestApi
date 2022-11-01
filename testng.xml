@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="D:/Workspace-Intellije/RestApi/src/test/java/JsonServer_Data/ParametrizationTestReferData.java">
+        <classes>
+            <class name="JsonServer_Data.ParametrizationTestReferData">
+                <methods>
+                    <include name="postRecord"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
